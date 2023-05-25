@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Lucas",
+      "empresa": "Walmart",
+      "email": "petruzzellalucas@hotmail.com",
+      "telefono": "123123",
+      "notas": "test notas",
+      "id": 1
+    }
+  ]
+}
